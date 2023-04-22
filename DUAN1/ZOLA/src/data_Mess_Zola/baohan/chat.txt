@@ -1,0 +1,1 @@
+ID_chat=45; Username_user=baohan; Username_other_user=huy1721; ID_type=1; Text=Hello em yeu; Who_send=huy1721

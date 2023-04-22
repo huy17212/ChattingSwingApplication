@@ -1,0 +1,7 @@
+ID_chat=10267; Username_user=huy1721; Username_other_user=system; ID_type=1; Text=Chào mừng bạn đến với zola (Đây là tin nhắn tự sinh).; Who_send=system
+ID_chat=10268; Username_user=huy1721; Username_other_user=baohan; ID_type=1; Text=Xin Chào Bạn Nha, Mình Vừa Kết Bạn.; Who_send=huy1721
+ID_chat=10269; Username_user=huy1721; Username_other_user=haiyen; ID_type=1; Text=Xin Chào Bạn Nha, Mình Vừa Kết Bạn.; Who_send=huy1721
+ID_chat=10270; Username_user=huy1721; Username_other_user=trinhhuyen; ID_type=1; Text=Xin Chào Bạn Nha, Mình Vừa Kết Bạn.; Who_send=huy1721
+ID_chat=10271; Username_user=huy1721; Username_other_user=khanhvy1; ID_type=1; Text=Xin Chào Bạn Nha, Mình Vừa Kết Bạn.; Who_send=huy1721
+
+

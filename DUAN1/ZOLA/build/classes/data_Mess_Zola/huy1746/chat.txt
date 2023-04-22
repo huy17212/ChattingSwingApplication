@@ -1,0 +1,1 @@
+ID_chat=9872; Username_user=huy1746; Username_other_user=system; ID_type=1; Text=Chào mừng bạn đến với zola (Đây là tin nhắn tự sinh).; Who_send=system

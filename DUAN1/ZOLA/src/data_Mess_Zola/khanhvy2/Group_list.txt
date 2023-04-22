@@ -1,0 +1,4 @@
+ID_group=1; Username_other_user=khanhvy2
+ID_group=2; Username_other_user=khanhvy2
+ID_group=3; Username_other_user=khanhvy2
+ID_group=4; Username_other_user=khanhvy2
